@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: "/asimsoft_website",
+    //basePath: "/asimsoft_website",
     output: 'export',
 };
 
