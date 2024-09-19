@@ -1,5 +1,4 @@
 import Image from "next/image";
-import toolImage from '../public/images/tools.svg'
 
 export default function Home() {
   return (
