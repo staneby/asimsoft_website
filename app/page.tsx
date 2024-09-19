@@ -1,5 +1,11 @@
+import type { Metadata } from 'next'
 import Image from "next/image";
 import { prefix } from "../utils/prefix";
+
+export const metadata: Metadata = {
+  title: 'AsimSoft LLC',
+  description: 'Corporate site of AsimSoft LLC',
+}
 
 export default function Home() {
   return (
