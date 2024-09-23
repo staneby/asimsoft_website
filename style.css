@@ -23,4 +23,6 @@ img.maintenance {
     height: 50px;
 }
 
-h2.maintenance {text-align: center;}
+h2.maintenance {
+    text-align: center;
+}
